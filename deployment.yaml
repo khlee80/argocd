@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: khlee80/myhello:27
+        image: khlee80/myhello:28
         ports:
         - containerPort: 8080
